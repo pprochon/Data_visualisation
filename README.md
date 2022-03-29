@@ -1,7 +1,7 @@
 # Data_visualisation
+This repo was done as a data visualization training using matplotlib, Seaborn and EDA with NumPy.<br/> 
 Based on https://www.kaggle.com/iabhishekofficial/mobile-price-classification 
 
-This repo was done as a data visualization training using matplotlib, Seaborn and EDA with NumPy. 
 ## Variables description: ##
 <b>id</b> --- > ID<br/>
 <b>battery_power</b> --- > Total energy a battery can store at any one time [in mAh]<br/>
