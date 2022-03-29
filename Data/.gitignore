@@ -1,1 +1,1 @@
--e Data "*\n!.gitignore" 
+git rm --cached Data/** 
