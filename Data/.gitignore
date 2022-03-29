@@ -1,2 +1,2 @@
-git rm --cached Data/** 
+git rm --cached Data/**.csv 
 Data/**
