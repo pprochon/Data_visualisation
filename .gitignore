@@ -1,3 +1,8 @@
+#Data
+*.csv
+*.h5
+*.xls
+*xlsx
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
